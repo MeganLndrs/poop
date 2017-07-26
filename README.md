@@ -1,7 +1,7 @@
-#POOP
+# POOP
 ## Welcome to POOP
 
-For more POOP go [here](https://github.com/MeganLndrs/poop/edit/master/README.md)
+For more POOP go [here](https://www.google.co.uk/search?q=poop+emoji&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiB6b-51KfVAhVELFAKHVN6DMQQ_AUICigB&biw=1366&bih=638)
 
 
 ### Markdown
